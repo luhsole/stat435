@@ -1,2 +1,2 @@
 # stat435
-Washington State University / STAT 435
+Washington State University / Fall 2021 / STAT 435
